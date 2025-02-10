@@ -1,7 +1,6 @@
-<?php include('../includes/dbconfig.php') ?>
-<?php include('../includes/function.php'); ?>
-
 <?php
+include('../includes/dbconfig.php');
+include('../includes/function.php');
 
 if (isset($_GET['news_id'])) {
     $news_id = $_GET['news_id'];
@@ -25,19 +24,16 @@ if (isset($_GET['news_id'])) {
     exit();
 }
 
-// Handle the form submission (Update News)
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $title = $_POST['title'];
     $content = $_POST['content'];
     $published_date = $_POST['published_date'];
     $author = $_POST['author'];
 
-    // Handle main image update
-    if (isset($_FILES['ain_image_url']) && !empty($_FILES['main_image_url']['name'])) {
-        $main_image_url = $_FILES['main_image_url']['name'];
+    if (isset($_FILES['main_image_url']) && !empty($_FILES['main_image_url']['name'])) {
+        $main_image_url = time() . "_" . $_FILES['main_image_url']['name']; 
         $main_image_url_tmp = $_FILES['main_image_url']['tmp_name'];
 
-        // Remove old image if exists
         if (!empty($news['main_image_url']) && file_exists("../images/news/" . $news['main_image_url'])) {
             unlink("../images/news/" . $news['main_image_url']);
         }
@@ -50,28 +46,41 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $gallery_images = isset($_FILES['gallery_images']['name']) ? $_FILES['gallery_images']['name'] : [];
     $gallery_images_temp = isset($_FILES['gallery_images']['tmp_name']) ? $_FILES['gallery_images']['tmp_name'] : [];
 
-    if (!empty($gallery_images[0])) {
-
+    // Check if "Remove All Gallery Images" checkbox is checked
+    if (isset($_POST['remove_gallery_images']) && $_POST['remove_gallery_images'] == 1) {
+        // Remove old gallery images from folder
         $old_gallery_images = explode(',', $news['gallery_images']);
         foreach ($old_gallery_images as $old_image) {
             if (!empty($old_image) && file_exists("../images/news/n_gallery/" . $old_image)) {
                 unlink("../images/news/n_gallery/" . $old_image);
             }
         }
-
-        $new_gallery_images = [];
-        foreach ($gallery_images as $key => $gallery_image) {
-            move_uploaded_file($gallery_images_temp[$key], "../images/news/n_gallery/$gallery_image");
-            $new_gallery_images[] = $gallery_image;
-        }
-        $gallery_images = implode(',', $new_gallery_images);
+        $gallery_images = ""; // Set empty in database
     } else {
-        $gallery_images = $news['gallery_images']; 
+        if (!empty($gallery_images[0])) {
+            // Remove old gallery images before adding new ones
+            $old_gallery_images = explode(',', $news['gallery_images']);
+            foreach ($old_gallery_images as $old_image) {
+                if (!empty($old_image) && file_exists("../images/news/n_gallery/" . $old_image)) {
+                    unlink("../images/news/n_gallery/" . $old_image);
+                }
+            }
+
+            $new_gallery_images = [];
+            foreach ($gallery_images as $key => $gallery_image) {
+                $new_file_name = time() . "_" . $gallery_image; 
+                move_uploaded_file($gallery_images_temp[$key], "../images/news/n_gallery/$new_file_name");
+                $new_gallery_images[] = $new_file_name;
+            }
+            $gallery_images = implode(',', $new_gallery_images);
+        } else {
+            $gallery_images = $news['gallery_images']; 
+        }
     }
+
 
     $query = "UPDATE news SET title = ?, content = ?, main_image_url = ?, gallery_images = ?, published_date = ?, author = ? WHERE news_id = ?";
     $stmt = $mysqli->prepare($query);
-    
 
     if (!$stmt) {
         die("Error preparing query: " . $mysqli->error);
@@ -233,6 +242,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                                             <input class="form-control mt-2" id="gallery_images" name="gallery_images[]" type="file" multiple>
                                                         </div>
                                                         <div class="valid-feedback">Looks good!</div>
+                                                        <label for="gallery_images" class="col-xl-3 col-sm-4 mb-0">
+                                                            <input type="checkbox" name="remove_gallery_images" value="1">
+                                                            <strong>Remove all gallery images</strong>
+                                                        </label>
+
                                                     </div>
 
                                                     <!-- Published Date -->
