@@ -1,0 +1,5 @@
+
+// Define the user's information
+$username = 'admin';  // Replace with the actual username
+$password = 'Nyp1IlWySVdBM9r'; // Replace with the actual password
+

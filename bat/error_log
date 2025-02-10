@@ -1,0 +1,211 @@
+[05-Apr-2024 01:12:20 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:20 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:20 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:53 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:53 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:55 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:12:55 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:02 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:02 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:31 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:31 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:31 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:13:31 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:14:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:14:19 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:14:52 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:14:52 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:15:05 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:15:05 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:15:05 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:15:05 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:17:46 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:17:46 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:18:26 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:18:30 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:18:30 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:19:02 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:19:02 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, array given in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php(28): mysqli_fetch_assoc(Array)
+#1 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:20:45 America/Boise] PHP Warning:  Undefined variable $result in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:20:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:28
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 28
+[05-Apr-2024 01:24:02 America/Boise] PHP Warning:  Undefined variable $result in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:24:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:23 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:25 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:26 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:26 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:26 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:26 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:26 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:27 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:27:27 America/Boise] PHP Warning:  Undefined array key "s" in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 8
+[05-Apr-2024 01:27:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:28:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:28:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:29:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
+[05-Apr-2024 01:29:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on array in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php:29
+Stack trace:
+#0 {main}
+  thrown in /home2/yvvblimy/public_html/.website_b0fc7419/bat/rd-search.php on line 29
